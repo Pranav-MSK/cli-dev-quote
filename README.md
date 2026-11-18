@@ -1,4 +1,4 @@
-# cli-dev-quote [work under progress]
+# cli-dev-quote [work under progress - both name and code]
 
 A tiny terminal tool that fetches and displays a random programming quote from a public API.
 
